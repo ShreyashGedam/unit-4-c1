@@ -1,0 +1,4 @@
+function checkPermission(next)
+// {
+//    next()
+// }
